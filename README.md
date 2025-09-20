@@ -16,9 +16,10 @@ Insights
 
 💳 Online channel had the highest average order value (AOV).
 
-Visuals
+## Visuals
 
-
+![Monthly Revenue](monthly_revenue.png)
+![Revenue by Product](revenue_by_product.png)
 
 
 
