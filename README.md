@@ -19,6 +19,8 @@ Insights
 ## Visuals
 
 <img width="1200" height="800" alt="revenue_by_product" src="https://github.com/user-attachments/assets/f324fd4a-6d92-4f61-abf8-0c3cd644d9d1" />
+<img width="1200" height="800" alt="monthly_revenue" src="https://github.com/user-attachments/assets/2e746cc5-faac-4e0d-b8a4-f6906c5bd624" />
+
 
 
 
