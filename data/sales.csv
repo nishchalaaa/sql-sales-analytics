@@ -1,0 +1,6 @@
+date,region,product,quantity,unit_price,channel
+2024-01-01,West,Widget,2,19.99,Online
+2024-01-01,East,Gadget,1,14.99,Retail
+2024-01-02,North,Widget,3,24.99,Wholesale
+2024-01-02,South,Doohickey,1,9.99,Online
+2024-01-03,East,Gadget,2,19.99,Retail
