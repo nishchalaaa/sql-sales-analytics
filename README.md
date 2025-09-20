@@ -18,8 +18,8 @@ Insights
 
 ## Visuals
 
-![Monthly Revenue](monthly_revenue.png)
-![Revenue by Product](revenue_by_product.png)
+<img width="1200" height="800" alt="revenue_by_product" src="https://github.com/user-attachments/assets/f324fd4a-6d92-4f61-abf8-0c3cd644d9d1" />
+
 
 
 
